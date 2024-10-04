@@ -1,0 +1,1 @@
+INSERT INTO `Usuarios_Iris2` (nombre, apellido, dni, clave, direccion, telefono, fNacimiento, email) VALUES ('Ada', 'Montgomery', 6, 'buho', 'Roble 646', 770983, '2005-08-21', 'Adamontgomery08@gmail.com');
